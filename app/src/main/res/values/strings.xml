@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">News API</string>
+    <string name="dummy_title">Lorem Ipsum</string>
+    <string name="dummy_desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ut pretium neque. Phasellus vitae luctus risus. Pellentesque vel purus odio. Aliquam arcu purus, lobortis sit amet ipsum quis, tincidunt aliquam mi. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec sit amet mauris non magna pharetra egestas. Mauris eget condimentum lectus. Phasellus nec dapibus arcu. Aliquam a urna at mi aliquam malesuada quis sit amet sapien. Donec fermentum vehicula turpis.</string>
+    <string name="dummy_author">Flansxie</string>
+    <string name="dummy_content">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sodales dolor quis diam fermentum, eget ultrices diam lacinia. Integer tincidunt vel enim tempor pulvinar. Nulla eu nunc ac purus egestas blandit. Maecenas vulputate nisi vitae sapien finibus auctor. Vivamus dui magna, cursus a commodo id, iaculis id lacus. Pellentesque eleifend ultricies volutpat. Pellentesque condimentum tempus lacinia. Donec eu eros sed tortor volutpat pretium vel nec felis. Nam dapibus elit et leo euismod, nec fringilla turpis commodo. Pellentesque consectetur, leo quis viverra tincidunt, dolor neque placerat orci, at volutpat tellus eros non elit. Nulla id feugiat sem. Morbi nunc libero, sollicitudin quis maximus nec, blandit eget libero.
+
+Vivamus sapien libero, varius non dolor non, aliquam convallis risus. Suspendisse elementum nunc nisi, eget lacinia ipsum vehicula in. Fusce commodo felis quis turpis ultrices feugiat. Donec at urna sollicitudin, eleifend purus ac, posuere massa. Integer rhoncus convallis justo, sed sodales lorem porta non. Aliquam eu scelerisque neque, vel pharetra felis. Maecenas porttitor ornare volutpat.
+
+Nam pharetra ex sed lorem laoreet iaculis. Cras nibh justo, elementum quis ornare malesuada, sodales et sapien. Sed quis massa nisi. Fusce aliquet enim a magna feugiat iaculis. Sed mi neque, fringilla vel libero ut, consectetur pellentesque metus. Phasellus maximus sodales turpis et aliquet. Etiam sit amet purus porta, porta quam id, commodo risus. Aenean non dolor vel justo mollis dapibus at sed tortor.
+
+Vivamus ut ligula sit amet elit mattis tempor. Ut sollicitudin purus ut quam pretium placerat. Aenean eu purus turpis. Maecenas vitae efficitur sapien. Suspendisse viverra nunc ac posuere viverra. Etiam eu sapien aliquet, interdum dui vitae, euismod dui. Nulla at est quis augue luctus pulvinar. Aliquam finibus sed ligula sed imperdiet. Fusce sodales turpis vel est mattis iaculis. Curabitur ut nisi neque. Duis molestie est eu quam interdum luctus.
+
+Nunc lobortis nibh a diam molestie, nec faucibus ipsum tincidunt. Fusce efficitur metus purus, ac pulvinar turpis ullamcorper sit amet. Proin et ligula vel lectus laoreet convallis a et nulla. Aliquam sollicitudin quam vel ex facilisis, vel porttitor nibh tempus. Vestibulum vitae elit id magna rhoncus sagittis quis nec nibh. Sed nec ipsum a lacus venenatis tincidunt id vel augue. In nec quam vel justo gravida efficitur eget vel felis. Praesent vehicula, quam a blandit lacinia, leo lorem lobortis erat, ac vulputate augue nibh sit amet eros. Nulla vestibulum risus eu diam lacinia rhoncus. Etiam quis eleifend leo, eget tristique dolor. Cras consectetur malesuada nisi lacinia vehicula. Aliquam erat volutpat. Aliquam bibendum finibus urna et pharetra.</string>
+    <string name="dummy_publish">2020–12-12T00:33:35Z</string>
+    <string name="dummy_source">UNN</string>
+    <string name="dummy_url">https://unlink.id</string>
+
+</resources>

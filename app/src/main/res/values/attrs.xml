@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="loveColor" format="reference"/>
+    <attr name="shareColor" format="reference"/>
+    <attr name="icColor" format="color"/>
+</resources>
